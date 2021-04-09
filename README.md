@@ -11,7 +11,7 @@ Application with a clean architecture this built with
  
  ![Screenshot](googlePlay.png) 
  
- [Get in PlayStore](https://play.google.com/store/apps/details?id=ar.com.mymovies)
+ [![Screenshot](googlePlay.png)](https://play.google.com/store/apps/details?id=ar.com.mymovies)
  
  # Screen
 
