@@ -9,10 +9,11 @@ Application with a clean architecture this built with
  
  # Get in Google Play
  
-![Screenshot](googleplay.png)
+ ![Screenshot](googlePlay.png)
  
  (https://play.google.com/store/apps/details?id=ar.com.mymovies)
  
  # Screen
 
 ![Screenshot](screen.png)
+![Screenshot](screen2.png)
