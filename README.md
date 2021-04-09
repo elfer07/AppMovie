@@ -6,6 +6,9 @@ Application with a clean architecture this built with
  - Navigation Components
  - ViewBinding
  - Coroutines 
+
+ # Support
+ You need create a API key from https://www.themoviedb.org/documentation/api
  
  # Get in Google Play
  
