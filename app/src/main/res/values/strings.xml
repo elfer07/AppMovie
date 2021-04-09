@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Resumen">Overview</string>
+    <string name="Favorito">Like</string>
+    <string name="Añadir">Favorite</string>
+    <string name="Compartir">Share</string>
+    <string name="populars_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="upcoming_movies">"Up Coming Movies "</string>
+</resources>
