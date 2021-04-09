@@ -10,7 +10,7 @@ Application with a clean architecture this built with
  # Support
  You need create a API key from https://www.themoviedb.org/documentation/api
  
- # Get it on Google Play
+ # Get it on Google PlayStore
  
  [![Screenshot](googlePlay.png)](https://play.google.com/store/apps/details?id=ar.com.mymovies)
  
