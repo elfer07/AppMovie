@@ -14,6 +14,11 @@ Application with a clean architecture this built with
  
  [![Screenshot](googlePlay.png)](https://play.google.com/store/apps/details?id=ar.com.mymovies)
  
+ #Architecture
+ 
+![Screenshot](finalarchitecture.png) 
+
+ 
  # Screen
 
 ![Screenshot](screen.png)
