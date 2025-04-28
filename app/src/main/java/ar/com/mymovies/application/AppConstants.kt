@@ -5,5 +5,5 @@ package ar.com.mymovies.application
  */
 object AppConstants {
     const val BASE_URL = "https://api.themoviedb.org/3/"
-    const val API_KEY = "HERE YOUR API KEY" // https://www.themoviedb.org/documentation/api
+    const val API_KEY = "YOUR API KEY" // https://www.themoviedb.org/documentation/api
 }

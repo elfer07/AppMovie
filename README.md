@@ -1,5 +1,6 @@
 # MovieApp
 Application with a clean architecture this built with
+ - Kotlin 2.0
  - MVVM
  - Extension Functions
  - Retrofit
@@ -12,7 +13,7 @@ Application with a clean architecture this built with
  
  # Get it on Google PlayStore
  
- [![Screenshot](googlePlay.png)](https://play.google.com/store/apps/details?id=ar.com.mymovies)
+ [![Screenshot](googlePlay.png)](https://play.google.com/store/apps/details?id=com.modocine)
  
  # Architecture
  
