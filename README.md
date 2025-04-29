@@ -7,6 +7,8 @@ Application with a clean architecture this built with
  - Navigation Components
  - ViewBinding
  - Coroutines 
+ - Flow
+ - Migration Jetpack Compose
  - Unit Tests
 
  # Support
