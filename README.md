@@ -7,6 +7,7 @@ Application with a clean architecture this built with
  - Navigation Components
  - ViewBinding
  - Coroutines 
+ - Unit Tests
 
  # Support
  You need create a API key from https://www.themoviedb.org/documentation/api
@@ -24,3 +25,12 @@ Application with a clean architecture this built with
 
 ![Screenshot](screen.png)
 ![Screenshot](screen2.png)
+
+# Support
+
+Like what you see?
+
+- ⭐ **Star This repo!** — it helps more people discover it!
+- 👍🏽 **Follow me** [![GitHub followers](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/elfer07)
+
+Thanks for your support! 🫶🏽
